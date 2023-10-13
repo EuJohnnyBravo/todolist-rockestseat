@@ -1,0 +1,10 @@
+br\com\rodrigo\todolist\errors\ExceptionHandlerController.class
+br\com\rodrigo\todolist\task\TaskController.class
+br\com\rodrigo\todolist\task\ITaskRepository.class
+br\com\rodrigo\todolist\TodolistApplication.class
+br\com\rodrigo\todolist\user\UserModel.class
+br\com\rodrigo\todolist\filter\FilterTaskAuth.class
+br\com\rodrigo\todolist\utils\Utils.class
+br\com\rodrigo\todolist\task\TaskModel.class
+br\com\rodrigo\todolist\user\IUserRepository.class
+br\com\rodrigo\todolist\user\UserController.class
